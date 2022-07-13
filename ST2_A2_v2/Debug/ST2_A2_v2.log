@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\Shane\Desktop\ST2\ST2_A2\ST2_A2_v2\ST2_A2_v2\Calculator.cpp(171,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shane\Desktop\ST2\ST2_A2\ST2_A2_v2\ST2_A2_v2\Calculator.cpp(174,27): warning C4018: '<=': signed/unsigned mismatch
+  ST2_A2_v2.vcxproj -> C:\Users\Shane\Desktop\ST2\ST2_A2\ST2_A2_v2\Debug\ST2_A2_v2.exe
